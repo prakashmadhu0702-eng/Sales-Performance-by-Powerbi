@@ -6,48 +6,48 @@ This project analyzes sales data to understand business performance, identify to
 
 Objectives
    
-   #Analyze overall sales performance and revenue trends
+ 1)  Analyze overall sales performance and revenue trends
    
-   #Identify top-performing products and categories
+ 2) Identify top-performing products and categories
    
-   #Evaluate regional sales distribution
+ 3)  Evaluate regional sales distribution
    
-   #Monitor key business metrics using KPIs
+ 4) Monitor key business metrics using KPIs
    
-   #Build an interactive Power BI dashboard for business insights
+ 5)  Build an interactive Power BI dashboard for business insights
 
 Tech Stack
   
-   Power BI
+ 1)  Power BI
    
-   Power Query
+ 2) Power Query
    
-   DAX
+ 3)  DAX
    
-   Excel / CSV Dataset
+ 4) Excel / CSV Dataset
    
 Key KPIs
 
-  Total Sales
+ 1) Total Sales
   
-  Total Profit
+ 2) Total Profit
   
-  Total Orders
+ 3) Total Orders
   
-  Average Sales
+ 4) Average Sales
 
 Top Performing Products
 
-   Sales by Region
+   1) Sales by Region
    
-   Monthly Sales Trend
+   2) Monthly Sales Trend
    
 Dashboard Features
 
-   Interactive filters and slicers
+   1)Interactive filters and slicers
    
-   Sales trend analysis
+   2)Sales trend analysis
    
-   Regional performance comparison
+   3)Regional performance comparison
 
 Product performance insights
